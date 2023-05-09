@@ -29,6 +29,21 @@ layout: default
               alt=page.profile.image -%}
             {% endif -%}
             {%- if page.profile.address %}
+                      <!-- Social -->
+          {%- if page.social %}
+          <div class="social">
+            <div class="contact-icons">
+              {% include social.html %}
+            </div>
+
+            <div class="contact-note">
+              {{ site.contact_note }}
+            </div>
+
+          </div>
+        {%- endif %}
+         
+
             <div class="address">
               {{ page.profile.address }}
             </div>
@@ -58,19 +73,7 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
 
-          <!-- Social -->
-          {%- if page.social %}
-            <div class="social">
-              <div class="contact-icons">
-                {% include social.html %}
-              </div>
 
-              <div class="contact-note">
-                {{ site.contact_note }}
-              </div>
-
-            </div>
-          {%- endif %}
         </article>
 
 </div>
