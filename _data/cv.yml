@@ -18,7 +18,27 @@
     - title: Bachelor of Science, Chemical Engineering
       institution: The University of Texas at Austin, Cockrell School of Engineering, Austin, TX, USA
       year: 2011
+
+- title: Licenses & Certifications
+  type: time_table
+  contents:
+    - title: Professional Engineer
+      institution: Pennsylvania State Registration Board for Professional Engineers, Land Surveyors and Geologists
+      year: DEC 2017 - SEP 2023
       
+    - title: Professional Engineer
+      institution: Montana Board of Professional Engineers and Professional Land Surveyors
+      year: JUN 2017 - JUN 2024
+    
+    - title: Professional Engineer
+      institution: Texas Board of Professional Engineers and Land Surveyors
+      year: DEC 2015 - SEP 2023
+
+    - title: Associate Systems Engineering Professional
+      institution: International Council on Systems Engineering
+      year: JAN 2023 - JAN 2028
+
+
 - title: Experience
   type: time_table
   contents:
