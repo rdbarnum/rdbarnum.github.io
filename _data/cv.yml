@@ -3,10 +3,8 @@
   contents:
     - name: Full Name
       value: Robert D. Barnum
-    - name: Date of Birth
-      value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
@@ -42,19 +40,14 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Principal Chemical Engineer
+      institution: Cecilia Energy
+      year: SEP 2023 - NOW
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+
+    - title: Product Engineer
+      institution: Pentair
+      year: AUG 2017 - SEP 2023
       description:
         - Description 1.
         - Description 2.
