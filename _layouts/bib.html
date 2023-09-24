@@ -144,6 +144,9 @@
           {%- if entry.bibtex_show %}
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           {%- endif %}
+          {%- if entry.doi %}
+            <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">doi</a>
+          {%- endif %}
           {%- if entry.engrxiv %}
             <a href=" https://doi.org/10.31224/{{ entry.engrxiv }}" class="btn btn-sm z-depth-0" role="button">engrXiv</a>
           {%- endif %}
