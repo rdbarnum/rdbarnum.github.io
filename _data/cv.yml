@@ -21,32 +21,33 @@
   type: time_table
   contents:
     - title: Professional Engineer
-      institution: Pennsylvania State Registration Board for Professional Engineers, Land Surveyors and Geologists
-      year: DEC 2017 - SEP 2023
-      
-    - title: Professional Engineer
       institution: Montana Board of Professional Engineers and Professional Land Surveyors
       year: JUN 2017 - JUN 2024
-    
+
+    - title: Professional Engineer
+      institution: Pennsylvania State Registration Board for Professional Engineers, Land Surveyors and Geologists
+      year: DEC 2017 - SEP 2025
+          
     - title: Professional Engineer
       institution: Texas Board of Professional Engineers and Land Surveyors
       year: DEC 2015 - SEP 2024
 
-    - title: Associate Systems Engineering Professional
-      institution: International Council on Systems Engineering
+    - title: <a href="https://www.credential.net/c6c7eaa6-1cac-40ab-9e18-961668a242a1">Associate Systems Engineering Professional</a>
+      institution: International Council on Systems Engineering  
+      image: <img src="https://www.incose.org/images/default-source/image_certification/asep.png" alt="INCOSE ASEP" style="width:100px">
       year: JAN 2023 - JAN 2028
-
+      description: 
 
 - title: Experience
   type: time_table
   contents:
     - title: Principal Chemical Engineer
-      institution: <a href="https://www.ceciliaenergy.com/">Cecilia Energy</a>
+      institution: <a href="https://www.ceciliaenergy.com/">Cecilia Energy, Inc.</a>
       year: SEP 2023 - NOW
-      description:
+      description: 
 
     - title: Product Engineer
-      institution: <a href="https://oilandgasseparations.pentair.com/">Pentair</a>, Conroe, TX, USA
+      institution: <a href="https://oilandgasseparations.pentair.com/">Pentair Filtration Solutions, LLC</a>, Conroe, TX, USA
       year: AUG 2017 - SEP 2023
       description:
         - Applied professional engineering techniques to identify, define, plan, schedule, coordinate and implement new product designs and product improvements to ensure highest level of profitability and customer satisfaction.
@@ -62,13 +63,13 @@
 
 
     - title: Architectural Intern
-      institution: <a href="https://www.bsa-architects.com/">BSA Architects</a>, Sugarland, TX, USA
+      institution: <a href="https://www.bsa-architects.com/">BSA-Architects, Inc.</a>, Sugarland, TX, USA
       year: MAY 2017 - AUG 2017
       description:
       - Completed drafting for remodeling work at several hospitals in the greater Houston, Texas area.
 
     - title: Project Engineer
-      institution: <a href="https://www.alliantgroup.com/">alliantgroup</a>, Houston, TX, USA
+      institution: <a href="https://www.alliantgroup.com/">alliantgroup, LP</a>, Houston, TX, USA
       year: MAY 2016 - FEB 2017
       description:
       - Responsibilities centered around the development of building energy use models of commercial building properties for the purpose of qualifying buildings for tax deductions under Section 197D of Title 26 of the US Code. 
@@ -77,7 +78,7 @@
       - Conducted building walk-through of potentially qualifying properties to visually confirm the installation of equipment as described in project scope or specified in building documentation, and collecting any additional information pertinent to building model development.
 
     - title: Process Engineer
-      institution: <a href="https://www.bechtel.com/">Bechtel</a>, Houston, TX, USA
+      institution: <a href="https://www.bechtel.com/">Bechtel Oil, Gas, and Chemicals, Inc.</a>, Houston, TX, USA
       year: JUN 2011 - MAY 2016
       description:
       - Applied knowledge of chemical engineering concepts to complete the process engineering design of equipment for oil, gas and chemicals facilities.
