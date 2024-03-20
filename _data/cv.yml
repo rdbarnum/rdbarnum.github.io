@@ -9,31 +9,35 @@
 - title: Education
   type: time_table
   contents:
-    - title: Graduate Certificate, Systems Engineering Practice
-      institution: Colorado State University, Walter Scott, Jr. College of Engineering, Fort Collins, CO, USA
+    - title: Master of Science, Space Science and Technology (in progress)
+      institution: <a href="https://www.open.ac.uk">The Open University</a><br><a href="https://stem.open.ac.uk">Faculty of Science, Technology, Engineering & Mathematics</a><br><a href="https://www5.open.ac.uk/science/physical-science/">School of Physical Sciences</a><br>Milton Keynes, United Kingdom
+      year: 2026 (expected) 
+    
+    - title: <a href="https://www.engr.colostate.edu/se/fall-2022-commencement/">Graduate Certificate, Systems Engineering Practice</a>
+      institution: <a href="https://www.colostate.edu/">Colorado State University</a><br><a href="https://www.engr.colostate.edu/">Walter Scott, Jr. College of Engineering</a><br><a href="https://www.engr.colostate.edu/se/">Department of Systems Engineering</a><br>Fort Collins, CO, USA
       year: 2022
       
-    - title: Bachelor of Science, Chemical Engineering
-      institution: The University of Texas at Austin, Cockrell School of Engineering, Austin, TX, USA
+    - title: <a href="https://utdirect.utexas.edu/apps/degree/degrees/nlogon/?s_last_isn_read=383588&s_first_name_read=BARNUM%2C+ROBERT+DOUGLAS&s_first_isn_read=1188068&s_first_time_sw=X&s_start_name=barnum%2C+robert+douglas&s_start_page=Submit"> Bachelor of Science, Chemical Engineering </a>
+      institution: <a href="https://www.utexas.edu">The University of Texas at Austin</a><br><a href="https://cockrell.utexas.edu/">Cockrell School of Engineering</a><br><a href="https://che.utexas.edu/">McKetta Department of Chemical Engineering</a><br>Austin, TX, USA
       year: 2011
 
 - title: Licenses & Certifications
   type: time_table
   contents:
-    - title: Professional Engineer
-      institution: Montana Board of Professional Engineers and Professional Land Surveyors
+    - title: <a href="https://ebizws.mt.gov/PUBLICPORTAL/licensedetail?altid=PEL-PE-LIC-49561">Professional Engineer &#35;49561PE, Montana</a>
+      institution: <a href="https://boards.bsd.dli.mt.gov/professional-engineers-land-surveyors/">Montana Board of Professional Engineers and Professional Land Surveyors</a>
       year: JUN 2017 - JUN 2024
 
-    - title: Professional Engineer
-      institution: Pennsylvania State Registration Board for Professional Engineers, Land Surveyors and Geologists
+    - title: Professional Engineer &#35;PE086856, Pennsylvania
+      institution: <a href="https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/EngineersLandSurveyorsandGeologists/Pages/default.aspx">Pennsylvania State Registration Board for Professional Engineers, Land Surveyors and Geologists</a>
       year: DEC 2017 - SEP 2025
           
-    - title: Professional Engineer
-      institution: Texas Board of Professional Engineers and Land Surveyors
+    - title: Professional Engineer &#35;122173, Texas
+      institution: <a href="https://pels.texas.gov/">Texas Board of Professional Engineers and Land Surveyors</a>
       year: DEC 2015 - SEP 2024
 
-    - title: <a href="https://www.credential.net/c6c7eaa6-1cac-40ab-9e18-961668a242a1">Associate Systems Engineering Professional</a>
-      institution: International Council on Systems Engineering  
+    - title: <a href="https://www.credential.net/c6c7eaa6-1cac-40ab-9e18-961668a242a1">Associate Systems Engineering Professional &#35;08123</a>
+      institution: <a href="https://www.incose.org/certification">International Council on Systems Engineering</a>  
       image: <img src="https://www.incose.org/images/default-source/image_certification/asep.png" alt="INCOSE ASEP" style="width:100px">
       year: JAN 2023 - JAN 2028
       description: 
@@ -45,8 +49,13 @@
       institution: <a href="https://www.ceciliaenergy.com/">Cecilia Energy, Inc.</a>
       year: SEP 2023 - NOW
       description: 
+        - Responsible for process engineering design development for novel technology converting waste plastic to energy and performance materials. 
+        - Directed scale up of new technology from laboratory scale to pilot plant and commercial scale facilities. Designed laboratory and pilot scale equipment required for technology proof of concept across several incremental stages of process scale up.  
+        - Developed process flow diagrams and mass and energy balances for the novel plastic processing system.
+        - Managed third party engineering contractor responsible for developing detailed engineering design packages for pilot scale facility.
+        - Managed engineering consultants with subject matter expertise to develop a novel reactor design configuration.
 
-    - title: Product Engineer
+    - title: Product Development Engineer - Chemical / Process
       institution: <a href="https://oilandgasseparations.pentair.com/">Pentair Filtration Solutions, LLC</a>, Conroe, TX, USA
       year: AUG 2017 - SEP 2023
       description:
@@ -60,8 +69,7 @@
         - Interfaced with product management, applications engineering, sales, quality, and operations to ensure timely production implementation of projects.
         - Assisted manufacturing operations staff with projects for efficiency improvements in labor, space and equipment to ensure the highest level of profitability. Participated in specific engineering initiatives such as value engineering, warranty reduction efforts, or other projects as assigned.
         - Provided technical assistance and support to customer inquiries and sales efforts.
-
-
+        
     - title: Architectural Intern
       institution: <a href="https://www.bsa-architects.com/">BSA-Architects, Inc.</a>, Sugarland, TX, USA
       year: MAY 2017 - AUG 2017
@@ -72,7 +80,7 @@
       institution: <a href="https://www.alliantgroup.com/">alliantgroup, LP</a>, Houston, TX, USA
       year: MAY 2016 - FEB 2017
       description:
-      - Responsibilities centered around the development of building energy use models of commercial building properties for the purpose of qualifying buildings for tax deductions under Section 197D of Title 26 of the US Code. 
+      - Responsibilities centered around the development of building energy use models of commercial building properties for the purpose of qualifying buildings for tax deductions under Section 179D of Title 26 of the US Code. 
       - Developed building energy models including information HVAC and lighting equipment, and building envelope.
       - Reviewed building models created by others reviewing for technical correctness.
       - Conducted building walk-through of potentially qualifying properties to visually confirm the installation of equipment as described in project scope or specified in building documentation, and collecting any additional information pertinent to building model development.
@@ -92,7 +100,7 @@
   contents:
     - title: <a href="https://www.aiche.org/">American Institute of Chemical Engineers</a>
       items: 
-        - "Membership:&emsp;2011 - 2012, 2019 - Present"
+        - "Membership:&emsp;2012, 2019 - Present"
         - "Service:&emsp;&emsp;&emsp;
             Spring Meeting: Session Co-Chair – 2020"
 
@@ -111,6 +119,7 @@
           Boy Scout – 1999 - 2006  <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
           Adult Scouter – 2006 - Present"
         - "Service:&emsp;&emsp;&emsp;
+          Chapter Chief, Polaris District – 2005 - 2006 <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
           Vice Chief, Colonneh Lodge – 2006 - 2007  <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
           Assistant Scoutmaster, Troop 900 – 2006 - 2017  <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
           Committee Advisor, Colonneh Lodge – 2013 - 2016  <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
