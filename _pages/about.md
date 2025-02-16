@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Bob is a senior Licensed Professional Engineer, with over 12 years of direct product, process and pilot plant experience in the field of Chemical Engineering.
+Bob is a senior Licensed Professional Engineer, with over 14 years of direct product, process and pilot plant experience in the field of Chemical Engineering.
 He is technically strong in all aspects of chemical engineering design with extensive experience in process definition using Aspen HYSYS, CHEMCAD, and DWSIM. 
 His engineering experience spans over 20 projects, where he has led the design, scale-up and process engineering from lab to pilot-scale and commercial scale operations. 
 
