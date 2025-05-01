@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Principal Chemical Engineer at <a href="https://www.ceciliaenergy.com/">Cecilia Energy</a>.
+subtitle: Principal Chemical Engineer at <a href="https://www.ceciliaenergy.com/">Cecilia</a>.
 
 profile:
   align: right
