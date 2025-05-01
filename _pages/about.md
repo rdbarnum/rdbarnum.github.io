@@ -6,7 +6,7 @@ subtitle: Principal Chemical Engineer at <a href="https://www.ceciliaenergy.com/
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic_2.jpg
   image_circular: false # crops the image to make it circular
   address: >
     
