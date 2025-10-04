@@ -1,12 +1,12 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
     {% for content in entry.contents %}
-      <li class="list-group-item">
+  <li class="list-group-item cv-entry">
         <div class="row">
             
-            <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
+            <div class="col-xs-2 cl-sm-2 col-md-2 text-center parent-badge-col" style="width: 75px;">
               
               {% if content.year %}
-              <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
+              <span id="parent-badge-{{ forloop.index0 }}" class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
               {{ content.year }}
               {% endif %}
               </span>
@@ -37,6 +37,14 @@
                 {% endfor %}
               </ul>
             {% endif %}
+            {% comment %} Optional projects dropdown: a list of projects with title and description(s) {% endcomment %}
+            {% if content.projects %}
+              <div class="mt-2 ml-1 ml-md-4">
+                <a class="btn btn-sm z-depth-0 projects-toggle collapsed" role="button" data-toggle="collapse" href="#projects-{{ forloop.index0 }}-{{ content.title | slugify }}" aria-expanded="false" aria-controls="projects-{{ forloop.index0 }}-{{ content.title | slugify }}">
+                  <span class="projects-label">Projects</span> <i class="fas fa-caret-right" aria-hidden="true"></i>
+                </a>
+              </div>
+            {% endif %}
             {% if content.items %}
               <ul class="items">
                 {% for item in content.items %}
@@ -57,6 +65,41 @@
             {% endif %}
           </div>
         </div>
+      
+        {% if content.projects %}
+          <ul id="projects-{{ forloop.index0 }}-{{ content.title | slugify }}" class="list-group list-group-flush collapse projects-list">
+          {% for project in content.projects %}
+            <li class="list-group-item project-entry">
+              <div class="row">
+                <div class="col-xs-2 cl-sm-2 col-md-2 text-center parent-badge-col" style="width:75px;">
+                  {% if project.year %}
+                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width:75px;">{{ project.year }}</span>
+                  {% endif %}
+                </div>
+                <div class="col-xs-10 cl-sm-10 col-md-10">
+                  {% if project.title %}
+                    <strong class="project-title ml-1 ml-md-4">{{ project.title }}</strong>
+                  {% endif %}
+                  {% if project.role %}
+                    <div class="project-role text-muted small ml-1 ml-md-4">{{ project.role }}</div>
+                  {% endif %}
+                  {% if project.description_list %}
+                    <ul class="project-description pl-3 mt-1 ml-1 ml-md-4">
+                      {% for pitem in project.description_list %}
+                        <li>{{ pitem }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% elsif project.description %}
+                    <div class="project-description mt-1">{{ project.description }}</div>
+                  {% endif %}
+                </div>
+              </div>
+            </li>
+          {% endfor %}
+          </ul>
+        {% endif %}
+
       </li>
+
     {% endfor %}
     </ul>

@@ -29,7 +29,8 @@ layout: default
               alt=page.profile.image -%}
             {% endif -%}
             {%- if page.profile.address %}
-                      <!-- Social -->
+
+            <!-- Social @ under pfp-->
           {%- if page.social %}
           <div class="social">
             <div class="contact-icons">
@@ -42,7 +43,7 @@ layout: default
 
           </div>
         {%- endif %}
-         
+        
 
             <div class="address">
               {{ page.profile.address }}
@@ -73,7 +74,20 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
 
+          <!-- Social @ bottom of page -->
+<!--           {%- if page.social %}
+          <div class="social">
+            <div class="contact-icons">
+              {% include social.html %}
+            </div>
 
+            <div class="contact-note">
+              {{ site.contact_note }}
+            </div>
+
+          </div>
+        {%- endif %}
+-->       
         </article>
 
 </div>

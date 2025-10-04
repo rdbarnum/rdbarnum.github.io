@@ -8,8 +8,10 @@ $max-content-width: {{ site.max_width }};
 
 @import
   "variables",
+  "cv",
   "themes",
   "layout",
   "base",
-  "distill"
+  "distill",
+  "custom-icons"
 ;

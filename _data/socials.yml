@@ -1,0 +1,61 @@
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
+
+orcid_id: 0000-0002-8602-8033 # your ORCID ID
+scholar_userid: QytKgOMAAAAJ # your Google Scholar ID
+research_gate_profile: Robert-Barnum # your profile on ResearchGate
+linkedin_username: robertbarnum # your LinkedIn user name
+x_username: EngiBob # your X/Twitter handle
+instagram_id: engi_bob # your instagram id
+discord_id: 1279142842018693221 # your discord id (18-digit unique numerical identifier)
+SAN_user-number: engibob-23 # Space Acceleration Network profile URL ending
+
+
+# acm_id: # your dl.acm.org/profile/id
+# blogger_url: # your blogger URL
+# bluesky_url: # your bluesky URL
+# dblp_url: # your DBLP profile url
+
+# email: # your email address
+# facebook_id: # your facebook id
+# flickr_id: # your flickr id
+# github_username: # your GitHub user name
+# gitlab_username: # your GitLab user name
+# hal_id: # your HAL id (https://hal.science/)
+# ieee_id: # your ieeexplore.ieee.org/author/id
+# inspirehep_id:  # Inspire HEP author ID
+
+# kaggle_id: # your kaggle id
+# keybase_username: # your keybase user name
+# lastfm_id: # your lastfm id
+# lattes_id: # your ID on Lattes (Brazilian Lattes CV)
+# leetcode_id: # your LeetCode id
+
+# mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+# medium_username: # your Medium username
+
+# osf_id: # your OSF ID
+# pinterest_id: # your pinterest id
+# publons_id: # your ID on Publons
+# quora_username: # your Quora username
+
+# rss_icon: true # comment this line to hide the RSS icon
+
+
+# scopus_id: 57210958151 # your profile on Scopus
+# semanticscholar_id: # your Semantic Scholar ID
+# spotify_id: # your spotify id
+# stackoverflow_id: # your stackoverflow id
+# strava_userid: # your strava user id
+# telegram_username: # your Telegram user name
+# unsplash_id: # your unsplash id
+# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+# wikidata_id: # your wikidata id
+# wikipedia_id: # your wikipedia id (Case sensitive)
+# work_url: # work page URL
+
+# youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+# zotero_username: # your zotero username
