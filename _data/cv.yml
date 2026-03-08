@@ -10,15 +10,59 @@
   type: time_table
   contents:
     - title: Principal Chemical Engineer
-      institution: <a href="https://www.ceciliaenergy.com/">Cecilia Energy, Inc.</a>
+      institution: <a href="https://www.ceciliamaterials.com/">Cecilia Energy, Inc.</a>
       year: SEP 2023 - NOW
       description: 
         - Responsible for process engineering design development of a novel system which converts waste plastic to energy and performance materials. 
-        - Directed scale up of new technology from laboratory scale to pilot plant and commercial scale facilities. Designed laboratory and pilot scale equipment required for technology proof of concept across several incremental stages of process scale up.  
-        - Developed process flow diagrams and mass and energy balances for the novel plastic processing system.
-        - Managed third party engineering contractor responsible for developing detailed engineering design packages for pilot scale facility.
+        - Directed scale up of new technology from laboratory scale to pilot plant and commercial scale facilities. Designed laboratory, pilot, demonstration, and commercial scale equipment required for technology proof of concept.  
+        - Developed process flow diagrams and mass and energy balances for the novel plastic processing system at pilot, demonstration, and commercial scales.
+        - Generated preliminary size and layout schematics for pilot and demonstration plant equipment. 
+        - Managed third party engineering contractors responsible for developing detailed engineering design packages for several facilities with increasing processing scale.
         - Managed engineering consultants with subject matter expertise to develop a novel reactor design configuration.
       
+      projects:
+      - title: Commercial Demonstration Unit
+        role: Project Lead
+        year: FEB 2026 - NOW
+         
+      - title: Scale Demonstration Unit
+        role: Project Lead
+        year: MAY 2025 - NOW 
+
+      - title: Pilot Demonstration Unit - Continuous Operation Improvement
+        role: Project Lead
+        year: OCT 2024 - NOW
+        description_list:
+        - Scope of work was development of continuous operation equipment for the pilot plant reactor. 
+        - Specified upstream and downstream hardware requirements to upgrade pilot plant from batch operation to continuous operation. 
+        - Developed conceptual drawings and diagrams, including process flow diagram, detailed conceptual mechanical system layouts, etc. 
+        - Specified and procured commercial off the shelf equipment when possible. 
+        - Oversaw third party development of specialized mechanical hardware where required. 
+         
+      - title: Commercial Scale Conceptual Design - Energy Analysis
+        role: Project Lead
+        year: APR 2024 - MAY 2024
+        description_list:
+        - Managed third party consultant in the development of detaled system heat and material balance based on commercial scale reactor balance.
+        - Developed detailed energy use analysis from heat and material balance for several operating modes.
+
+      - title: Pilot Demonstration Unit
+        role: Project Lead
+        year: SEP 2023 - FEB 2025
+        description_list:
+        - Project scope was to develop a reasearch reactor system with a nominal processing nameplate capacity of 5 kg/day feedstock. 
+        - Worked with laboratory reasearch team to develop pilot scale reactor based on prior benchtop reactor performance. 
+        - Provided process engineering input to third party contractor responsible for mechanical and electrical design of reactor system. 
+        - Reviewed final design for design completeness and suitability for purpose. 
+
+      - title: Commercial Scale Conceptual Design
+        role: Project Lead
+        year: SEP 2023 - DEC 2023
+        description_list:
+        - Developed conceptual process flow diagram for novel processing system. 
+        - Specified system requirements and code standards for new system. 
+        - Generated reactor balance for commercial scale reactor based on laboratory scale reactor performance. 
+        - Managed third party contractor in development of perliminary process design package and budgetary cost estimate for commercial scale sysetm.
 
     - title: Product Development Engineer - Chemical / Process
       institution: <a href="https://oilandgasseparations.pentair.com/">Pentair Filtration Solutions, LLC</a>, Conroe, TX, USA
@@ -142,7 +186,7 @@
         - Conducted building walk-through of potentially qualifying properties to visually confirm the installation of equipment as described in project scope or specified in building documentation, and collecting any additional information pertinent to building model development.
 
     - title: Process Engineer
-      institution: <a href="https://www.bechtel.com/">Bechtel Oil, Gas, and Chemicals, Inc.</a>, Houston, TX, USA
+      institution: <a href="https://www.bechtel.com/">Bechtel Corporation</a>, Houston, TX, USA
       year: JUN 2011 - MAY 2016
       description:
         - Applied knowledge of chemical engineering concepts to complete the process engineering design of equipment for oil, gas and chemicals facilities.
@@ -313,7 +357,7 @@
       institution: <a href="https://www.arizona.edu/"> The University of Arizona</a><br>
                    <a href="https://biosphere2.org/">Bioshpere 2</a><br>
                    <a href="https://www.b2science.org/center-human-space-exploration-chase">Center for Human Space Exploration (CHaSE)</a><br>
-                   in partneship with <a href="https://theinspired24.com/">The Inspired 24</a>
+                   in partnership with <a href="https://theinspired24.com/">The Inspired 24</a>
       year: MAY/JUNE 2025
     - title: <a href="https://app.kajabi.com/certificates/d03e3526">SpaceKind 13 - SpaceKind Leadership - Level 1</a>
       institution: <a href="https://spacekind.org/">SpaceKind</a>
@@ -325,7 +369,7 @@
   contents:
     - title: <a href="https://www.aiche.org/">American Institute of Chemical Engineers (AIChE)</a>
       items: 
-        - "Membership:&emsp;2012, 2019 - Present"
+        - "Membership:&emsp;2012, 2019 - 2024"
         - "Service:&emsp;&emsp;&emsp;
             Spring Meeting: Session Co-Chair – 2020"
 
@@ -345,7 +389,7 @@
           Voting Member – 2024 - Present  <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
           <a href=https://www.moondao.com/citizen/engibob-23>Citizen</a> – 2024 - Present"
         - "Service:	&emsp;&emsp;&emsp;
-          Senator – 2025 - Present"
+          Senator – Q1 2025 - Q4 2025"
 
     - title: <a href="https://www.nasa.gov/">National Aeronautics and Space Administration (NASA)</a>
       items:
