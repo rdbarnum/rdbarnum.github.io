@@ -10,7 +10,7 @@
   type: time_table
   contents:
     - title: Principal Chemical Engineer
-      institution: <a href="https://www.ceciliamaterials.com/">Cecilia Energy, Inc.</a>
+      institution: <a href="https://www.ceciliamaterials.com/">Cecilia Materials, Inc.</a>
       year: SEP 2023 - NOW
       description: 
         - Responsible for process engineering design development of a novel system which converts waste plastic to energy and performance materials. 
@@ -338,15 +338,19 @@
 - title: SCUBA Certifications
   type: time_table
   contents:
-    - title: <a href="https://my.divessi.com/cert/809851R7275112029678-US">Advanced Open Water Diver</a>
+    - title: Rescue Diver
+      institution: <a href="https://www.padi.com/">Professional Association of Diving Instructors (PADI)</a>
+      year: MAR 2026
+
+    - title: <a href="https://purl.org/rdb/SSI/Advanced-Open-Water-Diver/">Advanced Open Water Diver</a>
       institution: <a href="https://www.divessi.com/">SCUBA Schools International (SSI)</a>
       year: SEP 2024
 
-    - title: <a href="https://my.divessi.com/cert/809851E7211464024073-US">Enriched Air Nitrox Level 2 (40%)</a>
+    - title: <a href="https://purl.org/rdb/SSI/EAN40/">Enriched Air Nitrox Level 2 (40%)</a>
       institution: <a href="https://www.divessi.com/">SCUBA Schools International (SSI)</a>
       year: JULY 2024
 
-    - title: <a href="https://my.divessi.com/data/user_files/3/1/9/5/6/9/8/ccards_archive/front/1041845/thumb_629028_ba3a8f70241fe1e9_1016.jpeg">Open Water SCUBA Diver</a>
+    - title: <a href="https://purl.org/rdb/NAUI/SCUBA-Diver/">Open Water SCUBA Diver</a>
       institution: <a href="https://www.naui.org/">National Association of Underwater Instructors (NAUI)</a>
       year: APR 2008
 
@@ -416,7 +420,7 @@
           Committee Member-at-large, Ironhorse District – 2018 - Present <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
           DiscoverE E-Week Coordinator – 2015 - 2016 (via Bechtel Corporation) <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
           Committee Advisor, Colonneh Lodge – 2013 - 2016  <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
-          Merit Badge Councilor – 2012 - 2016 (via Bechtel Corporation) <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+          Merit Badge Counselor – 2012 - 2016 (via Bechtel Corporation) <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
           Assistant Scoutmaster, Troop 900 – 2006 - 2017  <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
           Vice Chief, Colonneh Lodge – 2006 - 2007 <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
           Chapter Chief, Polaris District – 2005 - 2006"
