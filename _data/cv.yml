@@ -339,8 +339,8 @@
   type: time_table
   contents:
     - title: Rescue Diver
-      institution: <a href="https://www.padi.com/">Professional Association of Diving Instructors (PADI)</a>
-      year: MAR 2026
+      institution: <a href="https://www.padi.com/">Professional Association of Diving Instructors (PADI)</a><br><i>* Dives completed March 2026, cert date is February 2026 in error.</i>
+      year: FEB 2026*
 
     - title: <a href="https://purl.org/rdb/SSI/Advanced-Open-Water-Diver/">Advanced Open Water Diver</a>
       institution: <a href="https://www.divessi.com/">SCUBA Schools International (SSI)</a>
