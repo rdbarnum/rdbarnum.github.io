@@ -338,7 +338,7 @@
 - title: SCUBA Certifications
   type: time_table
   contents:
-    - title: Rescue Diver
+    - title: <a href="https://purl.org/rdb/PADI/Rescue-Diver/">Rescue Diver</a>
       institution: <a href="https://www.padi.com/">Professional Association of Diving Instructors (PADI)</a><br><i>* Dives completed March 2026, cert date is February 2026 in error.</i>
       year: FEB 2026*
 
@@ -429,8 +429,3 @@
     #  items: 
     #  - "Award: &emsp;&emsp;&emsp;&ensp;	Young Engineer Foundation – 2014 "
         
-
-#- title: Other Interests
-#  type: list
-#  contents:
-#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
