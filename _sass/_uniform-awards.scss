@@ -1,0 +1,155 @@
+/*******************************************************************************
+ * Styles for the Scouting Uniform Awards layout.
+ ******************************************************************************/
+
+// Uniform Awards Responsive Layout
+.uniform-awards {
+  background-color: #AD9D7B;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.uniform-awards-table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.uniform-awards-table th {
+  padding: 0;
+  border: none;
+  vertical-align: bottom;
+}
+
+.uniform-awards-table th:not(.uniform-awards-spacer) {
+  width: calc((100% - 10em) / 2);
+}
+
+.uniform-awards-spacer {
+  width: 10em;
+}
+
+.uniform-awards-svg {
+  width: 30em;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.uniform-awards-crest {
+  width: 13em;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.uniform-awards-pin {
+  width: 3.75em;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0;
+}
+
+.uniform-awards-patch-row {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.uniform-awards-award-row {
+  display: flex;
+  gap: 0;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.uniform-awards-award {
+  width: 10em;
+  min-width: 8em;
+  max-width: 10em;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.uniform-awards-award-row .uniform-awards-award {
+  margin: 0;
+}
+
+// Mobile stacking
+@media (max-width: 768px) {
+  .uniform-awards {
+    padding: 0;
+    background-color: transparent;
+    border-radius: 0;
+  }
+
+  .uniform-awards-table,
+  .uniform-awards-table tbody,
+  .uniform-awards-table tr,
+  .uniform-awards-table th {
+    display: block;
+    width: 100%;
+  }
+
+  .uniform-awards-table th {
+    text-align: center;
+  }
+
+  .uniform-awards-table th:not(.uniform-awards-spacer) {
+    width: 100%;
+  }
+
+  .uniform-awards-spacer {
+    display: none;
+  }
+
+  .uniform-awards-table {
+    border-spacing: 0;
+  }
+
+  .uniform-awards-svg {
+    width: 100%;
+    max-width: none;
+  }
+
+  .uniform-awards-crest {
+    width: 100%;
+    max-width: none;
+    height: auto;
+  }
+
+  .uniform-awards-pin {
+    width: 100%;
+    max-width: none;
+    height: auto;
+  }
+
+  .uniform-awards-award {
+    flex: 1 1 10em;
+    min-width: 6.5em;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+  }
+
+  .uniform-awards-patch-row,
+  .uniform-awards-award-row {
+    justify-content: center;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .uniform-awards-award-row {
+    flex-wrap: nowrap;
+    gap: 0;
+  }
+}
