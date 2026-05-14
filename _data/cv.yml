@@ -338,6 +338,10 @@
 - title: SCUBA Certifications
   type: time_table
   contents:
+    - title: Two Star Diver (Theory Only)
+      institution: Confédération Mondiale des Activités Subaquatiques (CMAS)<br>[World Underwater Federation]
+      year: APR 2026
+    
     - title: <a href="https://purl.org/rdb/PADI/Rescue-Diver/">Rescue Diver</a>
       institution: <a href="https://www.padi.com/">Professional Association of Diving Instructors (PADI)</a><br><i>* Dives completed March 2026, cert date is February 2026 in error.</i>
       year: FEB 2026*
@@ -349,6 +353,10 @@
     - title: <a href="https://purl.org/rdb/SSI/EAN40/">Enriched Air Nitrox Level 2 (40%)</a>
       institution: <a href="https://www.divessi.com/">SCUBA Schools International (SSI)</a>
       year: JULY 2024
+
+    - title: Nitrox Diver (Theory Only)
+      institution: Confédération Mondiale des Activités Subaquatiques (CMAS)<br>[World Underwater Federation]
+      year: July 2024
 
     - title: <a href="https://purl.org/rdb/NAUI/SCUBA-Diver/">Open Water SCUBA Diver</a>
       institution: <a href="https://www.naui.org/">National Association of Underwater Instructors (NAUI)</a>
