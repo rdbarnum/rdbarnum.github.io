@@ -4,10 +4,6 @@
 
 // Uniform Awards Responsive Layout
 .uniform-awards {
-  --ua-crest-width: clamp(8em, 40vw, 13em);
-  --ua-pin-width: calc(var(--ua-crest-width) * 0.2884615385);
-  --ua-award-width: calc(var(--ua-crest-width) * 0.7692307692);
-  --ua-svg-width: calc(var(--ua-crest-width) * 2.5);
   background-color: #AD9D7B;
   padding: 10px;
   border-radius: 5px;
@@ -17,7 +13,6 @@
 .uniform-awards-table {
   margin: 0 auto;
   border-collapse: collapse;
-  border-spacing: 0;
   table-layout: fixed;
   width: 100%;
 }
@@ -38,16 +33,16 @@
 }
 
 .uniform-awards-svg {
-  width: min(var(--ua-svg-width), 30em);
-  max-width: 100%;
-  min-width: auto;
+  width: 30em;
+  max-width: 30em;
+  min-width: 30em;
   height: auto;
   display: block;
   margin: 0 auto;
 }
 
 .uniform-awards-crest {
-  width: min(var(--ua-crest-width), 13em);
+  width: 13em;
   max-width: 100%;
   height: auto;
   display: block;
@@ -55,8 +50,8 @@
 }
 
 .uniform-awards-pin {
-  width: min(var(--ua-pin-width), 100%);
-  max-width: var(--ua-pin-width);
+  width: 3.75em;
+  max-width: 100%;
   height: auto;
   display: block;
   margin: 0;
@@ -76,13 +71,14 @@
   justify-content: center;
   align-items: center;
   flex-wrap: nowrap;
-  width: auto;
+  width: 30em;
   margin: 0 auto;
 }
 
 .uniform-awards-award {
-  width: var(--ua-award-width);
-  max-width: 100%;
+  width: 10em;
+  min-width: 8em;
+  max-width: 10em;
   height: auto;
   display: block;
   margin: 0 auto;
@@ -125,50 +121,41 @@
   }
 
   .uniform-awards-svg {
-    width: min(var(--ua-svg-width), 30em);
-    max-width: 100%;
-    min-width: auto;
+    width: 30em;
+    max-width: 30em;
+    min-width: 30em;
     height: auto;
-    margin-left: auto;
-    margin-right: auto;
   }
 
   .uniform-awards-crest {
-    width: var(--ua-crest-width);
-    max-width: 100%;
+    width: 100%;
+    max-width: none;
     height: auto;
   }
 
   .uniform-awards-pin {
-    flex: 0 0 min(var(--ua-pin-width), calc(100% / 4));
-    width: min(var(--ua-pin-width), calc(100% / 4));
-    max-width: min(var(--ua-pin-width), calc(100% / 4));
+    width: 100%;
+    max-width: none;
     height: auto;
   }
 
   .uniform-awards-award {
-    flex: 0 0 min(var(--ua-award-width), calc(100% / 3));
-    width: min(var(--ua-award-width), calc(100% / 3));
-    max-width: min(var(--ua-award-width), calc(100% / 3));
+    width: 10em;
+    min-width: 10em;
+    max-width: 10em;
     height: auto;
   }
 
   .uniform-awards-patch-row,
   .uniform-awards-knot-row {
     justify-content: center;
-    width: 100%;
-    max-width: 100%;
+    width: 30em;
+    max-width: 30em;
     margin: 0 auto;
   }
 
   .uniform-awards-knot-row {
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     gap: 0;
-    align-items: center;
-  }
-
-  .uniform-awards-knot-row-main {
-    width: min(var(--ua-svg-width), 30em);
-    max-width: 100%;
   }
 }
