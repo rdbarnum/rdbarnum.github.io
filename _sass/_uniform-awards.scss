@@ -125,7 +125,7 @@
   }
 
   .uniform-awards-svg {
-    width: var(--ua-svg-width);
+    width: min(var(--ua-svg-width), 30em);
     max-width: 100%;
     min-width: auto;
     height: auto;
