@@ -4,6 +4,10 @@
 
 // Uniform Awards Responsive Layout
 .uniform-awards {
+  --ua-crest-width: clamp(8em, 40vw, 13em);
+  --ua-pin-width: calc(var(--ua-crest-width) * 0.2884615385);
+  --ua-award-width: calc(var(--ua-crest-width) * 0.7692307692);
+  --ua-svg-width: calc(var(--ua-crest-width) * 2.5);
   background-color: #AD9D7B;
   padding: 10px;
   border-radius: 5px;
@@ -13,6 +17,7 @@
 .uniform-awards-table {
   margin: 0 auto;
   border-collapse: collapse;
+  border-spacing: 0;
   table-layout: fixed;
   width: 100%;
 }
@@ -77,8 +82,7 @@
 
 .uniform-awards-award {
   width: 10em;
-  min-width: 8em;
-  max-width: 10em;
+  max-width: 100%;
   height: auto;
   display: block;
   margin: 0 auto;
@@ -121,27 +125,33 @@
   }
 
   .uniform-awards-svg {
-    width: 30em;
+    width: 100%;
     max-width: 30em;
-    min-width: 30em;
+    min-width: 0;
     height: auto;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .uniform-awards-crest {
-    width: 100%;
-    max-width: none;
+    width: 43.33%;
+    max-width: 13em;
+    min-width: 0;
     height: auto;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .uniform-awards-pin {
-    width: 100%;
-    max-width: none;
+    flex: 0 0 25%;
+    width: 25%;
+    max-width: 3.75em;
     height: auto;
   }
 
   .uniform-awards-award {
-    width: 10em;
-    min-width: 10em;
+    flex: 0 0 33.33%;
+    width: 33.33%;
     max-width: 10em;
     height: auto;
   }
@@ -149,13 +159,25 @@
   .uniform-awards-patch-row,
   .uniform-awards-knot-row {
     justify-content: center;
-    width: 30em;
+    width: 100%;
     max-width: 30em;
     margin: 0 auto;
+  }
+
+  .uniform-awards-patch-row {
+    flex-wrap: wrap;
+    gap: 0.5rem;
   }
 
   .uniform-awards-knot-row {
     flex-wrap: wrap;
     gap: 0;
+    align-items: center;
+  }
+
+  .uniform-awards-knot-row-main {
+    width: 100%;
+    max-width: 30em;
   }
 }
+
