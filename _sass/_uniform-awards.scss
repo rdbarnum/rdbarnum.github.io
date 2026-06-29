@@ -46,6 +46,14 @@
   margin: 0 auto;
 }
 
+.uniform-awards-nametag {
+  width: 100%;
+  max-width: 17.2em;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
 .uniform-awards-crest {
   width: 13em;
   max-width: 100%;
@@ -178,6 +186,17 @@
   .uniform-awards-knot-row-main {
     width: 100%;
     max-width: 30em;
+  }
+}
+
+@media (max-width: 480px) {
+  .uniform-awards-nametag {
+    width: min(100%, 13em);
+    max-width: 13em;
+    min-width: 0;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
