@@ -21,13 +21,14 @@
         - Managed engineering consultants with subject matter expertise to develop a novel reactor design configuration.
       
       projects:
-      - title: Commercial Demonstration Unit
-        role: Project Lead
-        year: FEB 2026 - NOW
+#      - title: Commercial Demonstration Unit
+#        role: Project Lead
+#        year: FEB 2026 - NOW
          
       - title: Scale Demonstration Unit
         role: Project Lead
-        year: MAY 2025 - NOW 
+        year: MAY 2025 - NOW
+        description_list: 
 
       - title: Pilot Demonstration Unit - Continuous Operation Improvement
         role: Project Lead
@@ -319,7 +320,7 @@
   contents:
     - title: <a href="https://ebizws.mt.gov/PUBLICPORTAL/licensedetail?altid=PEL-PE-LIC-49561">Professional Engineer &#35;49561PE, Montana</a>
       institution: <a href="https://boards.bsd.dli.mt.gov/professional-engineers-land-surveyors/">Montana Board of Professional Engineers and Professional Land Surveyors</a>
-      year: JUN 2017 - JUN 2026
+      year: JUN 2017 - JUN 2028
 
     - title: Professional Engineer &#35;PE086856, Pennsylvania
       institution: <a href="https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/EngineersLandSurveyorsandGeologists/Pages/default.aspx">Pennsylvania State Registration Board for Professional Engineers, Land Surveyors and Geologists</a>
@@ -389,7 +390,8 @@
       items:
         - "Membership:&emsp;2025 - Present"
         - "Service:&emsp;&emsp;&emsp;
-          <a href=https://theinspired24.com/leadership>Director of Spaceflight Training</a> – 2025 - Present"
+          <a href=https://theinspired24.com/leadership>Director of the Spaceflight Readiness Program</a> – 2025 - Present<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+          Lead Instructor, Spaceflight Training Course – 2025 - Present"
 
     - title: <a href="https://www.incose.org/">International Council on Systems Engineering (INCOSE)</a>
       items:
