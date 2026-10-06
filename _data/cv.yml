@@ -29,6 +29,13 @@
         role: Project Lead
         year: MAY 2025 - NOW
         description_list: 
+        - Project scope was to develop a commercial scale demonstration reactor system with a nameplate capacity of 50 kg/day feedstock throughput.        - Developed prliminary heat and material balance for demonstration reactor based on pilot scale reactor performance data.
+        - Developed preliminary heat and material balance for demonstration reactor based on pilot scale reactor performance data.
+        - Generated preliminary process flow diagram for demonstration reactor system.
+        - Managed third party process engineering contractor in development of preliminary process design package, including detailed heat and material balance, preliminary process flow diagram, preliminary equipment sizing, and system HAZOP review
+        - Designed a proprietary process window for delivery of energy directly to the reactor system.  
+        - Managed third party mechanical engineering contractor for the detailed engineering drawings of the proprietary window system. 
+        - Solicited bid packages from system integration contractors to generate a budgetary cost estimate for the complete demonstration reactor system.
 
       - title: Pilot Demonstration Unit - Continuous Operation Improvement
         role: Project Lead
@@ -51,8 +58,8 @@
         role: Project Lead
         year: SEP 2023 - FEB 2025
         description_list:
-        - Project scope was to develop a reasearch reactor system with a nominal processing nameplate capacity of 5 kg/day feedstock. 
-        - Worked with laboratory reasearch team to develop pilot scale reactor based on prior benchtop reactor performance. 
+        - Developed a research reactor system with a nominal processing capacity of 5 kg/day feedstock. 
+        - Worked with laboratory research team to develop pilot scale reactor based on prior benchtop reactor performance. 
         - Provided process engineering input to third party contractor responsible for mechanical and electrical design of reactor system. 
         - Reviewed final design for design completeness and suitability for purpose. 
 
